@@ -149,6 +149,12 @@ li:hover{
 @media (max-width:422px) {
   .resetbtn {
     margin-top: 10px;
+    border-radius:6px;
+  }
+}
+@media (max-width:333px) {
+  .savebtn {
+    border-radius: 6px;
   }
 }
 /* Keyframe Animations */
