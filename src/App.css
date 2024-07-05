@@ -146,7 +146,7 @@ li:hover{
     width: 90%;
   }
 }
-@media (max-width:42px) {
+@media (max-width:422px) {
   .resetbtn {
     margin-top: 10px;
   }
