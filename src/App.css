@@ -131,7 +131,7 @@ li:hover{
 /* Media Queries */
 @media (max-width:960px) {
   .container {
-    background-color: blueviolet;
+/*     background-color: blueviolet; */
     width: 70%;
   }
 }
@@ -142,7 +142,7 @@ li:hover{
 }
 @media (max-width:500px) {
   .container {
-    background-color: blueviolet;
+/*     background-color: blueviolet; */
     width: 90%;
   }
 }
